@@ -36,7 +36,7 @@ Before running this application, ensure you have:
 
 ```bash
 npm install  
-**if grt eror run ,
+**if get eror run ,
 npm install --legacy-peer-deps
 ```
 
