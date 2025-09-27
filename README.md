@@ -15,7 +15,7 @@ Key features include secure registration/login, user dashboards, and real-time s
 - **W.M.A.T. Weerasekara** – DBA  
 - **R.S. Deraniyagala** – Full Stack Developer  
 - **K.M.G.H. Dilshan** – Frontend Developer  
-- **S.Thanavur Rahman** – Frontend Developer  
+- **S.Thanavur Rahman** – QA Analyst 
 - **R. Rishanthan** – QA Analyst  
 - **M.I.M. Ijaz** – QA Engineer  
 
